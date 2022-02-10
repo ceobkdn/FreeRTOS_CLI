@@ -33,6 +33,8 @@
     extern "C" {
 #endif
 /* *INDENT-ON* */
+	    
+/** Adding other definition to run the the CLI independent */ 	    
 #include <stdint.h>
 
 #define configCOMMAND_INT_MAX_OUTPUT_SIZE   1
